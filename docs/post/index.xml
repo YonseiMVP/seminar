@@ -6,10 +6,30 @@
     <description>Recent content in Posts on MVP Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Fri, 03 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/seminar/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>신입생 Orientation 세미나</title>
+      <link>/seminar/post/teohugo/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/teohugo/</guid>
+      <description>Web by Hugo 세미나 일시: 2017년 11월 15일 17시 발표자: 김태오 요즘 연구자/개발자들은 Web을 참 많이 사용합니다. 여기에는 세 가지 이유가 크게 있다고 보는데.
+ 생각과 개념, 알고리즘, 실험 결과 등을 정리하기에 좋다. 일종의 개인 이력서이자 포트폴리오 역할을 한다. 웹 프로그래밍 라이브러리 등의 등장으로 진입 장벽이 낮아졌다.  이러한 이유가 있다고 보고, 실제로도 연구 결과를 웹페이지로 Appendix 형태로 공개하는 경우도 많습니다. 물론 저 같은 경우는 1. 로 주로 씁니다.</description>
+    </item>
+    
+    <item>
+      <title>신입생 Orientation 세미나</title>
+      <link>/seminar/post/teocvt/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/teocvt/</guid>
+      <description>Computer Vision Topics 세미나 일시: 2017년 11월 8일 16시 예정 발표자: 김태오 사실상 저를 포함한 많은 분들이 겪고 있는 문제, 무슨 분야에 무엇을 연구하지? 입니다. 일단은 무슨 분야가 있는지는 알아야 한다라는 게 중요하겠다고 생각했습니다. 함범섭 교수님 수업 때 들었던 설명 위주의 분야에, CVPR과 ICCV등에서 주로 분류하는 분류법을 기반으로 저의 주관적 Bias를 조금 넣어서 53개 분야의 63개의 논문을 선정해 보았습니다.
+가능하면 최신 논문으로 선정해 보았고, 제가 잘 모르는 분야도 있기에 사실 100% 정확한 정답이라고 볼 수는 없지만.</description>
+    </item>
     
     <item>
       <title>Facial Emotion Recognition</title>
@@ -18,6 +38,90 @@
       
       <guid>/seminar/post/do2/</guid>
       <description> TBD </description>
+    </item>
+    
+    <item>
+      <title>Data Visualization and t-SNE</title>
+      <link>/seminar/post/lhm2/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/lhm2/</guid>
+      <description>발표자: 이형민 [발표 자료]
+패턴을 인식하는 데 있어서 가장 기본적으로 알아야 하는 개념은 바로 Feature 공간입니다. 이미지 패턴 인식을 할 때에도 각 이미지를 Feature 공간 안에 배치한 후에 패턴을 인식하게 되는데, 불행히도 이미지는 고차원의 정보이기 때문에 우리가 실제로 느낄 수 있는 차원을 훨씬 뛰어넘는 공간에 배치 되어, 직관적인 패턴 분석이 많이 어렵습니다.
+그렇기 때문에 PCA처럼 고차원 데이터를 저차원의 공간으로 Projection 하여 Visualization 하기 위한 수많은 연구들이 진행되어 왔고, 실제로 논문에서 실험 결과를 Visualization 하여 이해를 돕거나, 패턴을 분석하기 전에 데이터들이 어떠한 모양으로 분포하고 있는지에 대한 정보를 얻어 분석 방향을 결정하기도 하였습니다.</description>
+    </item>
+    
+    <item>
+      <title>K-means Clustering and GMM</title>
+      <link>/seminar/post/park2/</link>
+      <pubDate>Fri, 29 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/park2/</guid>
+      <description>발표자: 박성주 [발표 자료]
+이번 세미나에서 발표할 내용은 Data Clustering에 관한 알고리즘들 입니다. Data Clustering은 Dimension Reduction 및 Feature Learning등과 더불어 매우 중요한 Unsupervised Learning 분야로서, Supervised Learning을 위한 Pre-processing으로 많이 사용하고 Image에서는 Segmentation등에 사용되고 있습니다.
+또한 Clustering 알고리즘, 나아가서 Unsupervised Learning에 많이 쓰이는 여러 개념들을 이해하기 위한 Background로써 확률의 기본적인 개념과 머신러닝에서의 확률 분포 및 랜덤 변수, Maximum Likelihood 그리고 몇 가지 Probability Distribution을 살펴보려고 합니다.
+그 후 Clustering 알고리즘으로 많이 알려진 K-means, 그리고 이것의 한계점을 보완하기 위한 확률 기반의 Soft-Clustering 방법인 GMM(Gaussian Mixture Model)을 소개할 것입니다.</description>
+    </item>
+    
+    <item>
+      <title>Conditional Random Fields</title>
+      <link>/seminar/post/jun1/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/jun1/</guid>
+      <description>발표자: 이주성 [발표 자료]
+대표적인 Generative Model로써, 최근 GAN이 곽광받고 있어 세미나에서도 자주 다루고 있지만, 이번에는 Discriminative model에 대해서 생각해보고자 합니다. Discriminative model의 예는 Logistic regression, Linear discriminant analysis (LDA), Support Vector Machines (SVM), Boosting, Conditional Random Fields (CRF), Linear Regression, Neural Networks 등이 존재하는데, 그 중 CRF에 대해서 살펴보겠습니다. CRF는 방향성이 없는 Probability Modeling을 위한 Graph Model로서, 이를 Deep Learning에서 어떻게 이용되는지, 앞으로 어떻게 확장가능할지에 대해서 생각해보는 시간 갖을 예정입니다.</description>
+    </item>
+    
+    <item>
+      <title>Decoder Matters for Dense Prediction Problems</title>
+      <link>/seminar/post/kyu1/</link>
+      <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/kyu1/</guid>
+      <description>발표자: 이민규 [발표 자료]
+최근 딥러닝을 기반으로 한 pixel단위의 값을 추정해야 하는 dense prediction problem들을 해결하고 있는데 여기에 사용되는 decoder들의 형태에 따라서 다양한 문제들에서 evaluation 결과들에 영향을 미친다고 합니다. The Devil is in the Decoder 라는 논문을 중심으로 하여 decoder의 upsampling layer의 형태에 따른 여러가지 dense prediction problem들에 대한 실험 결과를 살펴볼 예정입니다.</description>
+    </item>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>/seminar/post/choi1/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/choi1/</guid>
+      <description>발표자: 최재성 [발표 자료]
+fMRI 데이터와 딥러닝 알고리즘을 활용하여 사람이 본 시각정보를 직/간접적으로 재구성하여 시각화시키는 알고리즘에대한 소개를 진행합니다.</description>
+    </item>
+    
+    <item>
+      <title>Superresolution via Deep Learning</title>
+      <link>/seminar/post/son1/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/son1/</guid>
+      <description>발표자: 손한빈 [발표 자료]
+과거부터 진행되어온 Super Resolution 연구의 역사를 간단하게 살펴보고 최근 Deep Learning 기술을 이용한 Super Resolution 논문에 대해 분석할 계획입니다. Deep Learning을 최초로 Super Resolution에 도입한 SRCNN과 그것을 응용하여 성능을 높인 VDSR, 그리고 SRCNN 기반의 몇개의 논문에 대해 정리하고자 합니다. 더 나아가 최근 GAN이 새롭게 떠오름에 따라 PSNR 성능 평가 방식에서 벗어나 인간의 인지적 관점에서의 성능에 초점을 맞추는 연구에 대해 살펴볼 예정입니다.</description>
+    </item>
+    
+    <item>
+      <title>Colorization</title>
+      <link>/seminar/post/hwang1/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/hwang1/</guid>
+      <description>발표자: 황상원 [발표 자료]
+흑백 영상에 색을 입히려는 시도는 과거에도 많았습니다. 하지만 CNN 의 혁명적인 발전과 더불어 ImageNet과 같은 방대한 Database 덕분에 현재 Colorization 연구는 상당히 진전된 상황입니다. 이번 세미나에서는 Colorization의 문제를 과거서 부터 현재까지 어떠한 방법으로 해결하려고 했으며, 현재는 어떠한 아이디어를 사용하는지 &amp;lsquo;간략하게&amp;rsquo; 살펴볼 예정입니다. 특히 Main으로 소개할 [ECCV 2016] &amp;lsquo;Colorful Image Colorization&amp;rsquo; 논문에서는 Self-Supervised Representation Learning, Loss function 위주로 살펴보고 Colorization 을 활용하여 Computer Vision이나, Machine Learning 에서 어떻게 활용될 수 있는지 까지 살펴볼 예정입니다.</description>
+    </item>
+    
+    <item>
+      <title>GANs for Computer Vision</title>
+      <link>/seminar/post/teo3/</link>
+      <pubDate>Fri, 18 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/teo3/</guid>
+      <description>발표자: 김태오 [발표 자료]
+지난번에 GAN 세미나를 한 적이 있는데요, GAN을 어디에 쓰지? 라는 게 사실 가장 큰 의문이었을 겁니다. 그래서 올해 나온 논문들로만, GAN을 Image Processing, Computer Vision등에 적용한 사례를 소개하고자 합니다. 처음 들으시는 분들을 위해서 GAN에 대해서 다시 한번 쉽게 설명하는 부분도 추가했습니다. 이형민 연구원이 정리해 준 &amp;ldquo;MNIST를 GAN으로 50줄 내로 Tensorflow로 구현하기&amp;rdquo; 코드도 소개합니다. 다음 논문들에 대해서 어떻게 GAN을 적용했는지 소개하도록 하겠습니다.
+Image to Image Translation - Image to Image Translation with Conditional Adversarial Networks, CVPR 2017 - Unpaired Image to Image Translation using Cycle-consistent Adversarial Networks, ICCV 2017 - Learning to Discover Cross-domain Relations with Generative Adversarial Networks, ICML 2017</description>
     </item>
     
     <item>
