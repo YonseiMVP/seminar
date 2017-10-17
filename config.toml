@@ -1,0 +1,19 @@
+baseurl = "/seminar"
+languageCode = "utf-8"
+title = "MVP Seminar"
+theme = "hugo-xmin"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+preserveTaxonomyNames = true
+footnotereturnlinkcontents = "↩"
+publishdir = "docs"
+
+[[menu.main]]
+    name = "Overview"
+    url = "/"
+    weight = 1
+
+[params]
+    description = "A website built through Hugo and blogdown."
+    footer = "&copy; [MVP LAB](https://mvp.yonsei.ac.kr) Since 2004"
