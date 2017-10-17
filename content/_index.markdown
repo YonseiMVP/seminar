@@ -2,7 +2,7 @@
 title: Home
 ---
 
-#MVP Lab Seminar
+# MVP Lab Seminar
 
 연세대학교 영상인식연구실 세미나 2017년 2학기
 
@@ -30,13 +30,13 @@ title: Home
 1 | 7월 7일 | 김태오 | [Generative Models (VAE/GAN)](post/teo2)
 2 | 7월 21일 | 도진경 | [Image Captioning](post/do1)
 2 | 7월 21일 | 박성주 | [Optical Flow](post/park1)
-3 | 8월 4일 | 이주성 | [Object Detection](/post/ju1)
+3 | 8월 4일 | 이주성 | [Object Detection](post/ju1)
 3 | 8월 4일 | 정태영 | [Reinforcement Learning](post/cty1)
-4 | 8월 18일 | 황상원 | [Colorization](spost/hwang1)
+4 | 8월 18일 | 황상원 | [Colorization](post/hwang1)
 4 | 8월 18일 | 김태오 | [GANs for Computer Vision](post/teo3)
 5 | 9월 7일 | 최재성 | [Neural Decoding with Deep Learning](post/choi1)
 5 | 9월 7일 | 손한빈 | [Superresolution via Deep Learning](post/son1)
-6 | 9월 15일 | 이민규 | [Decoder Matters for Dense Prediction Problems](seminar/post/kyu1)
+6 | 9월 15일 | 이민규 | [Decoder Matters for Dense Prediction Problems](post/kyu1)
 6 | 9월 15일 | 이준협 | [Conditional Random Fields](post/jun1)
 7 | 9월 29일 | 이형민 | [Data Visualization and t-SNE](post/lhm2)
 7 | 9월 29일 | 박성주 | [K-means Clustering and GMM](post/park2)

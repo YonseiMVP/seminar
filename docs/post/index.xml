@@ -69,7 +69,7 @@
       <pubDate>Fri, 15 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/jun1/</guid>
-      <description>발표자: 이주성 [발표 자료]
+      <description>발표자: 이준협 [발표 자료]
 대표적인 Generative Model로써, 최근 GAN이 곽광받고 있어 세미나에서도 자주 다루고 있지만, 이번에는 Discriminative model에 대해서 생각해보고자 합니다. Discriminative model의 예는 Logistic regression, Linear discriminant analysis (LDA), Support Vector Machines (SVM), Boosting, Conditional Random Fields (CRF), Linear Regression, Neural Networks 등이 존재하는데, 그 중 CRF에 대해서 살펴보겠습니다. CRF는 방향성이 없는 Probability Modeling을 위한 Graph Model로서, 이를 Deep Learning에서 어떻게 이용되는지, 앞으로 어떻게 확장가능할지에 대해서 생각해보는 시간 갖을 예정입니다.</description>
     </item>
     
@@ -84,7 +84,7 @@
     </item>
     
     <item>
-      <title>Object Detection</title>
+      <title>Neural Decoding with Deep Learning</title>
       <link>/seminar/post/choi1/</link>
       <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
       
@@ -121,7 +121,7 @@ fMRI 데이터와 딥러닝 알고리즘을 활용하여 사람이 본 시각정
       <guid>/seminar/post/teo3/</guid>
       <description>발표자: 김태오 [발표 자료]
 지난번에 GAN 세미나를 한 적이 있는데요, GAN을 어디에 쓰지? 라는 게 사실 가장 큰 의문이었을 겁니다. 그래서 올해 나온 논문들로만, GAN을 Image Processing, Computer Vision등에 적용한 사례를 소개하고자 합니다. 처음 들으시는 분들을 위해서 GAN에 대해서 다시 한번 쉽게 설명하는 부분도 추가했습니다. 이형민 연구원이 정리해 준 &amp;ldquo;MNIST를 GAN으로 50줄 내로 Tensorflow로 구현하기&amp;rdquo; 코드도 소개합니다. 다음 논문들에 대해서 어떻게 GAN을 적용했는지 소개하도록 하겠습니다.
-Image to Image Translation - Image to Image Translation with Conditional Adversarial Networks, CVPR 2017 - Unpaired Image to Image Translation using Cycle-consistent Adversarial Networks, ICCV 2017 - Learning to Discover Cross-domain Relations with Generative Adversarial Networks, ICML 2017</description>
+Image to Image Translation</description>
     </item>
     
     <item>

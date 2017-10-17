@@ -1,5 +1,5 @@
 ---
-title: Object Detection
+title: Neural Decoding with Deep Learning
 date: '2017-09-07'
 ---
 

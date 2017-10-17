@@ -16,4 +16,4 @@ publishdir = "docs"
 
 [params]
     description = "A website built through Hugo and blogdown."
-    footer = "&copy; [MVP LAB](https://mvp.yonsei.ac.kr) Since 2004"
+    footer = "&copy; [MVP LAB](http://mvp.yonsei.ac.kr) Since 2004"

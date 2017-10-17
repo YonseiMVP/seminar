@@ -3,7 +3,7 @@ title: Conditional Random Fields
 date: '2017-09-15'
 ---
 
-## 발표자: 이주성
+## 발표자: 이준협
 
 [[발표 자료](/seminar/regular/w6_1.pptx)]
 

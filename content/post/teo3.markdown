@@ -12,23 +12,28 @@ date: '2017-08-18'
 다음 논문들에 대해서 어떻게 GAN을 적용했는지 소개하도록 하겠습니다.
 
 Image to Image Translation
+
 - Image to Image Translation with Conditional Adversarial Networks, CVPR 2017
 - Unpaired Image to Image Translation using Cycle-consistent Adversarial Networks, ICCV 2017
 - Learning to Discover Cross-domain Relations with Generative Adversarial Networks, ICML 2017
 
 Single Image Super-Resolution
+
 - Photo-realistic Single Image Super-Resolution using a Generative Adversarial Networks, CVPR 2017
 - EnhanceNet: Single Image Super Resoluton through Automated Texture Synthesis, ICCV 2017
 
 Feature Upscaling & 3D Reconstruction
+
 - Perceptual Generative Adversarial Networks for Small Object Detection CVPR 2017
 - Synthesizing 3D Shapes via Modeling Multi-View Depth Maps and Silhouettes with Deep Generative Networks, CVPR 2017
 
 Pose Estimation, Face Recognition, Pedestrian Detection using Data Augmentation
+
 - Crossing Nets: Combining GANs and VAEs with a Shared Latent Space for Hand Pose Estimation, CVPR 2017
 - Distangled Representation Learning GAN for Pose-Invariant Face Recogntion CVPR 2017
 - Expecting the Unexpected: Training Detectors for Unusual Pedestrians with Adversarial Imposters, CVPR 2017
 
 Modeling and Feature Extraction
+
 - Age Prediction/Regression by Conditional Adversarial Autoencoder CVPR 2017
 - Unsupervised Video Summarization with Adversarial LSTM Network CVPR 2017
