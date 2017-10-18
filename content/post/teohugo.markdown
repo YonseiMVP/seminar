@@ -1,12 +1,30 @@
 ---
-title: 신입생 Orientation 세미나
+title: 신입생 Orientation 세미나 4
 date: '2017-11-15'
 ---
 
-## Web by Hugo 세미나
+## Markdown, MathJaX and Hugo
 
 #### 일시: 2017년 11월 15일 17시
 #### 발표자: 김태오
+
+사전 자료는 [여기](/seminar/pdf/resources.zip)서 받으실 수 있습니다.
+
+다음 프로그램들을 미리 설치하시고, 노트북을 지참해 주시기 바랍니다.
+
+1. Git
+https://git-scm.com/downloads
+
+2. Anaconda
+https://www.anaconda.com/download/
+
+3. Atom Editor
+https://atom.io/
+
+4. Google Chrome + Daum Equation Editor 확장 프로그램
+https://chrome.google.com/webstore/detail/daum-equation-editor/dinfmiceliiomokeofbocegmacmagjhe
+
+### Abstract
 
 요즘 연구자/개발자들은 Web을 참 많이 사용합니다. 여기에는 세 가지 이유가 크게 있다고 보는데.
 
@@ -20,17 +38,10 @@ date: '2017-11-15'
 어쨌든. 한 번 배워 보는 시간을 가지려고 합니다. 매우 간단하게. 누구나 30분~1시간이면 만들 수 있도록 해 보려고 합니다.
 우리는 연구할 시간이 많이 필요하기에 이런 건 짧을수록 좋습니다.
 
-이번 세미나에서는 Hugo 라이브러리를 사용해서 Github에서 제공하는 호스팅을 이용해서 웹페이지를 만들어 보는 튜토리얼을 해 보고자 합니다.
+이번 세미나에서 다룰 것은 다음과 같이 크게 3가지입니다.
 
-사전 지식으로는 Git에 대해서 아주 조금 필요하고 그게 다입니다.
-그리고 빠른 진행을 위해서 노트북을 지참해주시고, 다음 두 프로그램을 설치해 주시기 바랍니다.
-
-1. Git
-https://git-scm.com/downloads
-
-2. Atom Editor
-https://atom.io/
+1. Github나 Jupyter 등 다양하게 쓰이는 Markdown 배우기
+2. LaTeX등에 쓰이는 수식 툴 MathJaX 배우기
+3. Hugo로 웹사이트 만들어 Github로 Hosting 해보기
 
 [[예제 사이트](https://yonseimvp.github.io/research/)]
-
-사전 자료는 [여기](/seminar/pdf/resources.zip)서 받으실 수 있습니다.

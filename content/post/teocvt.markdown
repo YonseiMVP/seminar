@@ -1,5 +1,5 @@
 ---
-title: 신입생 Orientation 세미나
+title: 신입생 Orientation 세미나 1
 date: '2017-11-08'
 ---
 
