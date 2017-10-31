@@ -12,6 +12,10 @@ title: Home
 
 <br>
 
+문의는 메일로 부탁드립니다: kto@yonsei.ac.kr
+
+<br>
+
 ### Comming Up Next: 11월 세미나
 
 11월 세미나는 정기 세미나의 마지막 달이기도 하고, **신입생 Orientation 세미나**를 새롭게 진행함으로서, 세미나가 많아졌습니다.
@@ -20,10 +24,10 @@ title: Home
 
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
-11월 3일 금요일 16시 | TBA | [Facial Expression Recognition using CNN](post/do2) | 도진경 | 정기 세미나 | X
-                    | TBA | [Continuous Learning](post/ju2) | 이주성 | 정기 세미나 | X
-11월 8일 **수**요일 16시 | TBA | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
-                        | TBA | [Git Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
+11월 3일 금요일 16시 | 공D403 | [Facial Expression Recognition using CNN](post/do2) | 도진경 | 정기 세미나 | X
+                    |  | [Continuous Learning](post/ju2) | 이주성 | 정기 세미나 | X
+11월 8일 **수**요일 16시 | 공D407 | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
+                        |  | [Git Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
 11월 10일 금요일 16시  | TBA | [LaTeX](post/kj1) | 이경재 | 정기 세미나  | O
                       | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
 11월 15일 **수**요일 16시 | TBA | [Research on Lab](post/teolab) | 김태오 | 신입생 세미나 | X
@@ -76,8 +80,8 @@ title: Home
 
 **회차**  | **일시** | **발표자** | **발표 자료**
 :---: | :---: | :--- | :--- |
-1차 | 17년 10월 11일 | 이현성 | Download
-1차 | 17년 10월 27일 | 조명아 | Download
+1차 | 17년 10월 11일 | 이현성 | Will be Uploaded
+1차 | 17년 10월 27일 | 조명아 | Will be Uploaded
 
 <br>
 <br>
