@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/seminar/post/hwang2/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/seminar/post/son2/</loc>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/seminar/post/teolab/</loc>
+    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/seminar/post/teohugo/</loc>
     <lastmod>2017-11-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>/seminar/post/kj1/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/seminar/post/cty2/</loc>
+    <lastmod>2017-11-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/seminar/post/teocvt/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/seminar/post/hmgit/</loc>
+    <lastmod>2017-11-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/seminar/post/ju2/</loc>
+    <lastmod>2017-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -99,12 +134,12 @@
   
   <url>
     <loc>/seminar/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/seminar/post/</loc>
-    <lastmod>2017-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

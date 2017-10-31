@@ -14,18 +14,22 @@ title: Home
 
 ### Comming Up Next: 11월 세미나
 
+11월 세미나는 정기 세미나의 마지막 달이기도 하고, **신입생 Orientation 세미나**를 새롭게 진행함으로서, 세미나가 많아졌습니다.
+
+일정 헷갈리시지 않도록 다음과 같이 정리되어 있으니 참고하시면 되겠습니다.
+
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
-11월 3일 금요일 15시 | TBA | [Facial Emotion Recognition](post/do2) | 도진경 | 정기 세미나 | X
-11월 3일 금요일 16시 | TBA | 미정 | 이주성 | 정기 세미나 | X
-11월 8일 **수** 요일 16시 | TBA | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
-11월 8일 **수** 요일 17시 | TBA | Git Commands | 이형민 | 신입생 세미나 | O
-11월 10일 금요일 15시 | TBA | LaTeX | 이경재 | 정기 세미나  | O
-11월 10일 금요일 16시 | TBA | 미정 | 정태영 | 정기 세미나  | X
-11월 15일 **수** 요일 16시 | TBA | Research on Lab | 김태오 | 신입생 세미나 | X
-11월 15일 **수** 요일 17시 | TBA | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
-11월 24일 금요일 15시 | TBA | 미정 | 황상원 | 정기 세미나  | X
-11월 24일 금요일 16시 | TBA | 미정 | 손한빈 | 정기 세미나  | X
+11월 3일 금요일 16시 | TBA | [Facial Expression Recognition using CNN](post/do2) | 도진경 | 정기 세미나 | X
+                    | TBA | [Continuous Learning](post/ju2) | 이주성 | 정기 세미나 | X
+11월 8일 **수**요일 16시 | TBA | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
+                        | TBA | [Git Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
+11월 10일 금요일 16시  | TBA | [LaTeX](post/kj1) | 이경재 | 정기 세미나  | O
+                      | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
+11월 15일 **수**요일 16시 | TBA | [Research on Lab](post/teolab) | 김태오 | 신입생 세미나 | X
+                         | TBA | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
+11월 24일 금요일 15시 | TBA | [3D Object Detection](post/hwang2) | 황상원 | 정기 세미나  | X
+                     | TBA | [Visual Question Answering](post/son2) | 손한빈 | 정기 세미나  | X
 
 <br>
 
@@ -48,12 +52,12 @@ title: Home
 6 | 9월 15일 | 이준협 | [Conditional Random Fields](post/jun1)
 7 | 9월 29일 | 이형민 | [Data Visualization and t-SNE](post/lhm2)
 7 | 9월 29일 | 박성주 | [K-means Clustering and GMM](post/park2)
-8 | 11월 3일 | 도진경 | TBA
-8 | 11월 3일 | 이주성 | TBA
-9 | 11월 10일 | 이경재 | TBA
-9 | 11월 10일 | 정태영 | TBA
-10 | 11월 24일 | 손한빈 | TBA
-10 | 11월 24일 | 황상원 | TBA
+8 | 11월 3일 | 도진경 | [Facial Expression Recognition using CNN](post/do2)
+8 | 11월 3일 | 이주성 | [Continuous Learning](post/ju2)
+9 | 11월 10일 | 이경재 | [LaTeX](post/kj1)
+9 | 11월 10일 | 정태영 | [Mask R-CNN](post/cty2)
+10 | 11월 24일 | 손한빈 | [Visual Question Answering](post/son2)
+10 | 11월 24일 | 황상원 | [3D Object Detection](post/hwang2)
 
 <br>
 
@@ -62,8 +66,8 @@ title: Home
 **파트**  | **최종일시** | **발표자** | **주제**
 :---: | :---: | :--- | :--- |
 1 | 17년 11월 8일 | 김태오 | [Computer Vision Topics](post/teocvt)
-2 | 17년 11월 8일 | 이형민 | Git Commands
-3 | 17년 11월 15일 | 김태오 | Research on Lab
+2 | 17년 11월 8일 | 이형민 | [Git Commands](post/hmgit)
+3 | 17년 11월 15일 | 김태오 | [Research on Lab](post/teolab)
 4 | 17년 11월 15일 | 김태오 | [Markdown, MathJaX and Hugo](post/teohugo)
 
 <br>

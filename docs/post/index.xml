@@ -6,10 +6,41 @@
     <description>Recent content in Posts on MVP Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Wed, 15 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/seminar/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>3D Object Detection</title>
+      <link>/seminar/post/hwang2/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/hwang2/</guid>
+      <description>발표자: 황상원 발표 자료: 아직 발표 전입니다</description>
+    </item>
+    
+    <item>
+      <title>Visual Question Answering</title>
+      <link>/seminar/post/son2/</link>
+      <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/son2/</guid>
+      <description>발표자: 손한빈 발표 자료: 아직 발표 전입니다</description>
+    </item>
+    
+    <item>
+      <title>신입생 Orientation 세미나 3</title>
+      <link>/seminar/post/teolab/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/teolab/</guid>
+      <description>Research on Lab 세미나 일시: 2017년 11월 15일 16시 예정 발표자: 김태오 본 세미나에서는 저널과 학회(컨퍼런스)의 대략적인 프로세스와 어떠한 저널/학회들을 관심 가지고 봐야할지에 대한 대략적인 소개를 진행합니다.
+또한 대략적인 논문검색, 탐색 및 Survey Tip에 대한 소개를 진행하며
+추가적으로 논문의 구조를 살펴보면서 논문 읽기에 대한 대략적인 방향성을 소개하고자 합니다.
+제가 생각하는 연구의 핵심은 다음 두 가지라고 생각합니다.
+ 논문은 무조건 많이 읽을수록 좋다 그렇다면 논문을 읽을 때 What (어떤 논문을 읽을 것인가) and How (논문을 어떻게 읽을 것인가)가 중요하다.</description>
+    </item>
     
     <item>
       <title>신입생 Orientation 세미나 4</title>
@@ -28,6 +59,29 @@
     </item>
     
     <item>
+      <title>LaTex</title>
+      <link>/seminar/post/kj1/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/kj1/</guid>
+      <description>발표자: 이경재 발표 자료: 아직 발표 전입니다
+노트북 지참 필수
+TBD</description>
+    </item>
+    
+    <item>
+      <title>Mask R-CNN</title>
+      <link>/seminar/post/cty2/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/cty2/</guid>
+      <description>발표자: 정태영 발표 자료: 아직 발표 전입니다.
+Object detection은 Computer Vision 분야에서 줄곧 관심있게 연구되고 있는 분야입니다. 그리고 최근 이 분야에서 가장 주목받고 있는 논문이 Mask R-CNN (ICCV 2017 Best Paper Award)입니다.
+Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 웃돌 뿐만 아니라, Object detection과 Instance Segmentation을 하나로 통합했다는 점에서 멋진 논문입니다.
+이번 세미나에서는 이 Mask R-CNN 기술의 개념과 알고리즘을 소개하고자 하며, 이를 위해 Mask R-CNN의 주 저자 Kaiming He의 이전 작인 Faster R-CNN, Fast R-CNN, R-CNN 등의 대략적인 발전 흐름도 짚고 넘어가려 합니다.</description>
+    </item>
+    
+    <item>
       <title>신입생 Orientation 세미나 1</title>
       <link>/seminar/post/teocvt/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
@@ -38,12 +92,36 @@
     </item>
     
     <item>
-      <title>Facial Emotion Recognition</title>
+      <title>신입생 Orientation 세미나 2</title>
+      <link>/seminar/post/hmgit/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/hmgit/</guid>
+      <description>Git Commands 세미나 일시: 2017년 11월 8일 17시 예정 발표자: 이형민 컴퓨터로 큰 프로젝트를 진행하다 보면 갑자기 프로젝트가 삭제되거나 손실되는 경우가 있을 수 있습니다. 또는 프로젝트의 결과물이 폴더 안에 &amp;lsquo;Code1.py&amp;rsquo;, &amp;lsquo;Code2.py&amp;rsquo;, &amp;lsquo;Code3.py&amp;rsquo;&amp;hellip; 와 같이 버전별로 불필요할 정도로 쌓이게 되는 경우가 있을 수 있습니다. 이러한 문제들을 해결해 줄 수 있는 시스템이 바로 &amp;lsquo;버전 관리 시스템&amp;rsquo;입니다.
+버전 관리 시스템은 우리가 프로젝트의 버전을 효율적으로 관리할 수 있게 도와주고, 원한다면 현재 상태를 백업하여 언제든지 과거의 시점으로 돌아가는 것이 가능하게 합니다.</description>
+    </item>
+    
+    <item>
+      <title>Continuous Learning</title>
+      <link>/seminar/post/ju2/</link>
+      <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/ju2/</guid>
+      <description>발표자: 이주성 발표 자료: 아직 발표 전입니다.
+현재까지는 논문이 많이 없고 연구 초기단계라 생각되는 continuous learning에 대해서 소개하려고 합니다. 딥러닝으로 상당히 많은 것들이 가능하고 여러 가지 분야에 맞는 task를 연구가 활발히 진행중입니다. 하지만, 이를 동시에 하는 연구에 대해서 소개해드리려고 합니다. 즉 하나의 네트워크가 classification도 가능하고 게임도 가능하게끔 하는 방법입니다. 소개해드릴 논문은 다음과 같이 두 가지입니다.
+ Overcoming catastrophic forgetting in neural networks(DeepMind, 2017.02) Continual Learning with Deep Generative Replay(SK T-Brain, 2017.</description>
+    </item>
+    
+    <item>
+      <title>Facial Expression Recognition using CNN</title>
       <link>/seminar/post/do2/</link>
       <pubDate>Fri, 03 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/do2/</guid>
-      <description> TBD </description>
+      <description>발표자: 도진경 발표 자료: 아직 발표 전입니다.
+CNN을 사용하여 감정 분류에 사용되는 눈썹, 입, 눈 등의 주요 부위별 특징을 추출하고, 이를 활용하여 감정 분류에 사용함으로써 높은 속도와 정확도를 가지는 real-time emotion recognition에 사용할 수 있습니다.
+이번 세미나에서는 감정 인식에 사용되는 데이터베이스와 훈련을 통해 추출된 특징에 대한 분석과 함께, CNN 모델 구조에 따른 인식 결과 비교 및 제가 tensorflow를 사용하여 시도해본 감정 인식 결과와 과정에 대해 공유하고자 합니다.
+주로 언급될 내용은 CNN 구조이며 Inception과 Xception구조에 대한 설명을 진행할 예정입니다.</description>
     </item>
     
     <item>
