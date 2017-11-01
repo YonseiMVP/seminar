@@ -28,8 +28,8 @@ title: Home
                     |  | [Continuous Learning](post/ju2) | 이주성 | 정기 세미나 | X
 11월 8일 **수**요일 16시 | 공D407 | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
                         |  | [Git Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
-11월 10일 금요일 16시  | TBA | [LaTeX](post/kj1) | 이경재 | 정기 세미나  | O
-                      | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
+11월 10일 금요일 16시  | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
+                      |  | [LaTeX](post/kj1) | 이경재 | 정기 세미나  | O
 11월 15일 **수**요일 16시 | TBA | [Research on Lab](post/teolab) | 김태오 | 신입생 세미나 | X
                          | TBA | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
 11월 24일 금요일 15시 | TBA | [3D Object Detection](post/hwang2) | 황상원 | 정기 세미나  | X
