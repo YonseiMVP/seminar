@@ -24,8 +24,6 @@ title: Home
 
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
-11월 3일 금요일 16시 | 공D403 | [Facial Expression Recognition using CNN](post/do2) | 도진경 | 정기 세미나 | X
-                    |  | [Continuous Learning](post/ju2) | 이주성 | 정기 세미나 | X
 11월 8일 **수**요일 16시 | 공D407 | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
                         |  | [Git Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
 11월 10일 금요일 16시  | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
