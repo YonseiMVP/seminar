@@ -28,10 +28,10 @@ title: Home
                         |  | [Git using Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
 11월 10일 금요일 16시  | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
                       |  | [LaTeX Tutorial](post/kj1) | 이경재 | 정기 세미나  | O
-11월 15일 **수**요일 16시 | TBA | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
-                         | TBA | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
+11월 15일 **수**요일 16시 | 공D407 | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
+                         |  | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
 11월 24일 금요일 15시 | TBA | [3D Object Detection](post/hwang2) | 황상원 | 정기 세미나  | X
-                     | TBA | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
+                     |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
 
 <br>
 
