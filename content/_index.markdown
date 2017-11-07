@@ -25,13 +25,13 @@ title: Home
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
 11월 8일 **수**요일 16시 | 공D407 | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
-                        |  | [Git Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
+                        |  | [Git using Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
 11월 10일 금요일 16시  | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
-                      |  | [LaTeX](post/kj1) | 이경재 | 정기 세미나  | O
-11월 15일 **수**요일 16시 | TBA | [Research on Lab](post/teolab) | 김태오 | 신입생 세미나 | X
+                      |  | [LaTeX Tutorial](post/kj1) | 이경재 | 정기 세미나  | O
+11월 15일 **수**요일 16시 | TBA | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
                          | TBA | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
 11월 24일 금요일 15시 | TBA | [3D Object Detection](post/hwang2) | 황상원 | 정기 세미나  | X
-                     | TBA | [Visual Question Answering](post/son2) | 손한빈 | 정기 세미나  | X
+                     | TBA | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
 
 <br>
 
@@ -56,10 +56,10 @@ title: Home
 7 | 9월 29일 | 박성주 | [K-means Clustering and GMM](post/park2)
 8 | 11월 3일 | 도진경 | [Facial Expression Recognition using CNN](post/do2)
 8 | 11월 3일 | 이주성 | [Continuous Learning](post/ju2)
-9 | 11월 10일 | 이경재 | [LaTeX](post/kj1)
 9 | 11월 10일 | 정태영 | [Mask R-CNN](post/cty2)
-10 | 11월 24일 | 손한빈 | [Visual Question Answering](post/son2)
+9 | 11월 10일 | 이경재 | [LaTeX Tutorial](post/kj1)
 10 | 11월 24일 | 황상원 | [3D Object Detection](post/hwang2)
+10 | 11월 24일 | 손한빈 | [Visual Attention](post/son2)
 
 <br>
 
@@ -68,8 +68,8 @@ title: Home
 **파트**  | **최종일시** | **발표자** | **주제**
 :---: | :---: | :--- | :--- |
 1 | 17년 11월 8일 | 김태오 | [Computer Vision Topics](post/teocvt)
-2 | 17년 11월 8일 | 이형민 | [Git Commands](post/hmgit)
-3 | 17년 11월 15일 | 김태오 | [Research on Lab](post/teolab)
+2 | 17년 11월 8일 | 이형민 | [Git using Commands](post/hmgit)
+3 | 17년 11월 15일 | 김태오 | [Research and Survey](post/teolab)
 4 | 17년 11월 15일 | 김태오 | [Markdown, MathJaX and Hugo](post/teohugo)
 
 <br>

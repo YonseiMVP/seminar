@@ -3,7 +3,7 @@ title: 신입생 Orientation 세미나 3
 date: '2017-11-15'
 ---
 
-## Research on Lab 세미나
+## Research and Survey 세미나
 
 #### 일시: 2017년 11월 15일 16시 예정
 #### 발표자: 김태오

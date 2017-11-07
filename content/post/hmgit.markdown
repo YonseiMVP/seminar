@@ -3,7 +3,7 @@ title: 신입생 Orientation 세미나 2
 date: '2017-11-08'
 ---
 
-## Git Commands 세미나
+## Git using Commands 세미나
 
 #### 일시: 2017년 11월 8일 17시 예정
 #### 발표자: 이형민

@@ -1,5 +1,5 @@
 ---
-title: LaTex
+title: LaTex Tutorial
 date: '2017-11-10'
 ---
 
@@ -8,5 +8,7 @@ date: '2017-11-10'
 발표 자료: 아직 발표 전입니다
 
 **노트북 지참 필수**
+
+
 
 TBD
