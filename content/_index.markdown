@@ -24,13 +24,11 @@ title: Home
 
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
-11월 8일 **수**요일 16시 | 공D407 | [Computer Vision Topics](post/teocvt) | 김태오 | 신입생 세미나 | X
-                        |  | [Git using Commands](post/hmgit) | 이형민 | 신입생 세미나 | O
-11월 10일 금요일 16시  | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
+11월 10일 금요일 16시  | 공D403 | [RNN](post/teo4) | 김태오 | 정기 세미나  | X
                       |  | [LaTeX Tutorial](post/kj1) | 이경재 | 정기 세미나  | O
 11월 15일 **수**요일 16시 | 공D407 | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
                          |  | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
-11월 24일 금요일 15시 | TBA | [3D Object Detection](post/hwang2) | 황상원 | 정기 세미나  | X
+11월 24일 금요일 15시 | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
                      |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
 
 <br>
@@ -56,9 +54,9 @@ title: Home
 7 | 9월 29일 | 박성주 | [K-means Clustering and GMM](post/park2)
 8 | 11월 3일 | 도진경 | [Facial Expression Recognition using CNN](post/do2)
 8 | 11월 3일 | 이주성 | [Continuous Learning](post/ju2)
-9 | 11월 10일 | 정태영 | [Mask R-CNN](post/cty2)
+9 | 11월 10일 | 김태오 | [RNN](post/teo4)
 9 | 11월 10일 | 이경재 | [LaTeX Tutorial](post/kj1)
-10 | 11월 24일 | 황상원 | [3D Object Detection](post/hwang2)
+10 | 11월 24일 | 정태영 | [Mask R-CNN](post/cty2)
 10 | 11월 24일 | 손한빈 | [Visual Attention](post/son2)
 
 <br>

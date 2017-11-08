@@ -12,12 +12,15 @@
     
     
     <item>
-      <title>3D Object Detection</title>
-      <link>/seminar/post/hwang2/</link>
+      <title>Mask R-CNN</title>
+      <link>/seminar/post/cty2/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/hwang2/</guid>
-      <description>발표자: 황상원 발표 자료: 아직 발표 전입니다</description>
+      <guid>/seminar/post/cty2/</guid>
+      <description>발표자: 정태영 발표 자료: 아직 발표 전입니다.
+Object detection은 Computer Vision 분야에서 줄곧 관심있게 연구되고 있는 분야입니다. 그리고 최근 이 분야에서 가장 주목받고 있는 논문이 Mask R-CNN (ICCV 2017 Best Paper Award)입니다.
+Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 웃돌 뿐만 아니라, Object detection과 Instance Segmentation을 하나로 통합했다는 점에서 멋진 논문입니다.
+이번 세미나에서는 이 Mask R-CNN 기술의 개념과 알고리즘을 소개하고자 하며, 이를 위해 Mask R-CNN의 주 저자 Kaiming He의 이전 작인 Faster R-CNN, Fast R-CNN, R-CNN 등의 대략적인 발전 흐름도 짚고 넘어가려 합니다.</description>
     </item>
     
     <item>
@@ -70,15 +73,13 @@ TBD</description>
     </item>
     
     <item>
-      <title>Mask R-CNN</title>
-      <link>/seminar/post/cty2/</link>
+      <title>RNN</title>
+      <link>/seminar/post/teo4/</link>
       <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/cty2/</guid>
-      <description>발표자: 정태영 발표 자료: 아직 발표 전입니다.
-Object detection은 Computer Vision 분야에서 줄곧 관심있게 연구되고 있는 분야입니다. 그리고 최근 이 분야에서 가장 주목받고 있는 논문이 Mask R-CNN (ICCV 2017 Best Paper Award)입니다.
-Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 웃돌 뿐만 아니라, Object detection과 Instance Segmentation을 하나로 통합했다는 점에서 멋진 논문입니다.
-이번 세미나에서는 이 Mask R-CNN 기술의 개념과 알고리즘을 소개하고자 하며, 이를 위해 Mask R-CNN의 주 저자 Kaiming He의 이전 작인 Faster R-CNN, Fast R-CNN, R-CNN 등의 대략적인 발전 흐름도 짚고 넘어가려 합니다.</description>
+      <guid>/seminar/post/teo4/</guid>
+      <description>발표자: 김태오 발표 자료: 아직 발표 전입니다.
+RNN, LSTM, GRU에 대해서 간략히 알아볼 예정입니다.</description>
     </item>
     
     <item>
@@ -87,7 +88,8 @@ Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 �
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/teocvt/</guid>
-      <description>Computer Vision Topics 세미나 일시: 2017년 11월 8일 16시 예정 발표자: 김태오 사실상 저를 포함한 많은 분들이 겪고 있는 문제, 무슨 분야에 무엇을 연구하지? 입니다. 일단은 무슨 분야가 있는지는 알아야 한다라는 게 중요하겠다고 생각했습니다. 함범섭 교수님 수업 때 들었던 설명 위주의 분야에, CVPR과 ICCV등에서 주로 분류하는 분류법을 기반으로 저의 주관적 Bias를 조금 넣어서 53개 분야의 63개의 논문을 선정해 보았습니다.
+      <description>Computer Vision Topics 세미나 일시: 2017년 11월 8일 16시 발표자: 김태오 발표 자료 업로드 예정
+사실상 저를 포함한 많은 분들이 겪고 있는 문제, 무슨 분야에 무엇을 연구하지? 입니다. 일단은 무슨 분야가 있는지는 알아야 한다라는 게 중요하겠다고 생각했습니다. 함범섭 교수님 수업 때 들었던 설명 위주의 분야에, CVPR과 ICCV등에서 주로 분류하는 분류법을 기반으로 저의 주관적 Bias를 조금 넣어서 53개 분야의 63개의 논문을 선정해 보았습니다.
 가능하면 최신 논문으로 선정해 보았고, 제가 잘 모르는 분야도 있기에 사실 100% 정확한 정답이라고 볼 수는 없지만.</description>
     </item>
     
@@ -97,7 +99,8 @@ Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 �
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/hmgit/</guid>
-      <description>Git using Commands 세미나 일시: 2017년 11월 8일 17시 예정 발표자: 이형민 컴퓨터로 큰 프로젝트를 진행하다 보면 갑자기 프로젝트가 삭제되거나 손실되는 경우가 있을 수 있습니다. 또는 프로젝트의 결과물이 폴더 안에 &amp;lsquo;Code1.py&amp;rsquo;, &amp;lsquo;Code2.py&amp;rsquo;, &amp;lsquo;Code3.py&amp;rsquo;&amp;hellip; 와 같이 버전별로 불필요할 정도로 쌓이게 되는 경우가 있을 수 있습니다. 이러한 문제들을 해결해 줄 수 있는 시스템이 바로 &amp;lsquo;버전 관리 시스템&amp;rsquo;입니다.
+      <description>Git using Commands 세미나 일시: 2017년 11월 8일 17시 발표자: 이형민 발표 자료 업로드 예정
+컴퓨터로 큰 프로젝트를 진행하다 보면 갑자기 프로젝트가 삭제되거나 손실되는 경우가 있을 수 있습니다. 또는 프로젝트의 결과물이 폴더 안에 &amp;lsquo;Code1.py&amp;rsquo;, &amp;lsquo;Code2.py&amp;rsquo;, &amp;lsquo;Code3.py&amp;rsquo;&amp;hellip; 와 같이 버전별로 불필요할 정도로 쌓이게 되는 경우가 있을 수 있습니다. 이러한 문제들을 해결해 줄 수 있는 시스템이 바로 &amp;lsquo;버전 관리 시스템&amp;rsquo;입니다.
 버전 관리 시스템은 우리가 프로젝트의 버전을 효율적으로 관리할 수 있게 도와주고, 원한다면 현재 상태를 백업하여 언제든지 과거의 시점으로 돌아가는 것이 가능하게 합니다.</description>
     </item>
     
