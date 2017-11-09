@@ -25,7 +25,7 @@ title: Home
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
 11월 10일 금요일 16시  | 공D403 | [RNN](post/teo4) | 김태오 | 정기 세미나  | X
-                      |  | [LaTeX Tutorial](post/kj1) | 이경재 | 정기 세미나  | O
+                      |  | [Tex- Easier, Better, Faster, Stronger](post/kj1) | 이경재 | 정기 세미나  | O
 11월 15일 **수**요일 16시 | 공D407 | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
                          |  | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
 11월 24일 금요일 15시 | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
@@ -55,7 +55,7 @@ title: Home
 8 | 11월 3일 | 도진경 | [Facial Expression Recognition using CNN](post/do2)
 8 | 11월 3일 | 이주성 | [Continuous Learning](post/ju2)
 9 | 11월 10일 | 김태오 | [RNN](post/teo4)
-9 | 11월 10일 | 이경재 | [LaTeX Tutorial](post/kj1)
+9 | 11월 10일 | 이경재 | [Tex- Easier, Better, Faster, Stronger](post/kj1)
 10 | 11월 24일 | 정태영 | [Mask R-CNN](post/cty2)
 10 | 11월 24일 | 손한빈 | [Visual Attention](post/son2)
 
