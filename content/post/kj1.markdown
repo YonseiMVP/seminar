@@ -7,7 +7,7 @@ date: '2017-11-10'
 
 발표 자료: 아직 발표 전입니다
 
-[[예제 다운로드]((/seminar/regular/example.zip))]
+[[예제 다운로드](/seminar/regular/example.zip)]
 
 **반드시 아래 링크에서 사전 프로그램을 설치하시기 바랍니다. 없으면 진행이 어렵습니다**
 
