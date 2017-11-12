@@ -24,10 +24,8 @@ title: Home
 
 *일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
 :---: | :---: | :--- | :--- | :--- | :--- |
-11월 10일 금요일 16시  | 공D403 | [RNN](post/teo4) | 김태오 | 정기 세미나  | X
-                      |  | [Tex- Easier, Better, Faster, Stronger](post/kj1) | 이경재 | 정기 세미나  | O
-11월 15일 **수**요일 16시 | 공D407 | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
-                         |  | [Markdown, MathJaX and Hugo](post/teohugo) | 김태오 | 신입생 세미나 | O
+11월 15일 **수**요일 16시 | 공D407 | [Web without Web Programming](post/teohugo) | 김태오 | 신입생 세미나 | O
+                         |  | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
 11월 24일 금요일 15시 | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
                      |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
 
@@ -54,7 +52,6 @@ title: Home
 7 | 9월 29일 | 박성주 | [K-means Clustering and GMM](post/park2)
 8 | 11월 3일 | 도진경 | [Facial Expression Recognition using CNN](post/do2)
 8 | 11월 3일 | 이주성 | [Continuous Learning](post/ju2)
-9 | 11월 10일 | 김태오 | [RNN](post/teo4)
 9 | 11월 10일 | 이경재 | [Tex- Easier, Better, Faster, Stronger](post/kj1)
 10 | 11월 24일 | 정태영 | [Mask R-CNN](post/cty2)
 10 | 11월 24일 | 손한빈 | [Visual Attention](post/son2)
@@ -67,8 +64,8 @@ title: Home
 :---: | :---: | :--- | :--- |
 1 | 17년 11월 8일 | 김태오 | [Computer Vision Topics](post/teocvt)
 2 | 17년 11월 8일 | 이형민 | [Git using Commands](post/hmgit)
-3 | 17년 11월 15일 | 김태오 | [Research and Survey](post/teolab)
-4 | 17년 11월 15일 | 김태오 | [Markdown, MathJaX and Hugo](post/teohugo)
+3 | 17년 11월 15일 | 김태오 | [Web without Web Programming](post/teohugo)
+4 | 17년 11월 15일 | 김태오 | [Research and Survey](post/teolab)
 
 <br>
 

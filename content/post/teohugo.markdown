@@ -1,14 +1,12 @@
 ---
-title: 신입생 Orientation 세미나 4
+title: 신입생 Orientation 세미나 3
 date: '2017-11-15'
 ---
 
-## Markdown, MathJaX and Hugo
+## Web without Web Programming
 
-#### 일시: 2017년 11월 15일 17시
+#### 일시: 2017년 11월 15일 16시
 #### 발표자: 김태오
-
-사전 자료는 [여기](/seminar/pdf/resources.zip)서 받으실 수 있습니다.
 
 다음 프로그램들을 미리 설치하시고, 노트북을 지참해 주시기 바랍니다.
 
@@ -21,8 +19,10 @@ https://www.anaconda.com/download/
 3. Atom Editor
 https://atom.io/
 
-4. Google Chrome + Daum Equation Editor 확장 프로그램
-https://chrome.google.com/webstore/detail/daum-equation-editor/dinfmiceliiomokeofbocegmacmagjhe
+4. Github 계정
+https://github.com
+
+실습 자료: [여기](/seminar/pdf/resources.zip)서 받으실 수 있습니다.
 
 ### Abstract
 
@@ -38,10 +38,9 @@ https://chrome.google.com/webstore/detail/daum-equation-editor/dinfmiceliiomokeo
 어쨌든. 한 번 배워 보는 시간을 가지려고 합니다. 매우 간단하게. 누구나 30분~1시간이면 만들 수 있도록 해 보려고 합니다.
 우리는 연구할 시간이 많이 필요하기에 이런 건 짧을수록 좋습니다.
 
-이번 세미나에서 다룰 것은 다음과 같이 크게 3가지입니다.
+이번 세미나에서 다룰 것은 다음과 같이 크게 2가지입니다.
 
 1. Github나 Jupyter 등 다양하게 쓰이는 Markdown 배우기
-2. LaTeX등에 쓰이는 수식 툴 MathJaX 배우기
-3. Hugo로 웹사이트 만들어 Github로 Hosting 해보기
+2. Hugo로 웹사이트 만들어 Github로 Hosting 해보기
 
 [[예제 사이트](https://yonseimvp.github.io/research/)]

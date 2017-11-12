@@ -34,43 +34,31 @@ Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 �
     
     <item>
       <title>신입생 Orientation 세미나 3</title>
-      <link>/seminar/post/teolab/</link>
-      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/seminar/post/teolab/</guid>
-      <description>Research and Survey 세미나 일시: 2017년 11월 15일 16시 예정 발표자: 김태오 본 세미나에서는 저널과 학회(컨퍼런스)의 대략적인 프로세스와 어떠한 저널/학회들을 관심 가지고 봐야할지에 대한 대략적인 소개를 진행합니다.
-또한 대략적인 논문검색, 탐색 및 Survey Tip에 대한 소개를 진행하며
-추가적으로 논문의 구조를 살펴보면서 논문 읽기에 대한 대략적인 방향성을 소개하고자 합니다.
-제가 생각하는 연구의 핵심은 다음 두 가지라고 생각합니다.
- 논문은 무조건 많이 읽을수록 좋다 그렇다면 논문을 읽을 때 What (어떤 논문을 읽을 것인가) and How (논문을 어떻게 읽을 것인가)가 중요하다.</description>
-    </item>
-    
-    <item>
-      <title>신입생 Orientation 세미나 4</title>
       <link>/seminar/post/teohugo/</link>
       <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/teohugo/</guid>
-      <description>Markdown, MathJaX and Hugo 일시: 2017년 11월 15일 17시 발표자: 김태오 사전 자료는 여기서 받으실 수 있습니다.
-다음 프로그램들을 미리 설치하시고, 노트북을 지참해 주시기 바랍니다.
+      <description>Web without Web Programming 일시: 2017년 11월 15일 16시 발표자: 김태오 다음 프로그램들을 미리 설치하시고, 노트북을 지참해 주시기 바랍니다.
  Git https://git-scm.com/downloads
  Anaconda https://www.anaconda.com/download/
  Atom Editor https://atom.io/
- Google Chrome + Daum Equation Editor 확장 프로그램 https://chrome.google.com/webstore/detail/daum-equation-editor/dinfmiceliiomokeofbocegmacmagjhe
-  Abstract 요즘 연구자/개발자들은 Web을 참 많이 사용합니다. 여기에는 세 가지 이유가 크게 있다고 보는데.
- 생각과 개념, 알고리즘, 실험 결과 등을 정리하기에 좋다.</description>
+ Github 계정 https://github.com
+  실습 자료: 여기서 받으실 수 있습니다.
+Abstract 요즘 연구자/개발자들은 Web을 참 많이 사용합니다. 여기에는 세 가지 이유가 크게 있다고 보는데.
+ 생각과 개념, 알고리즘, 실험 결과 등을 정리하기에 좋다. 일종의 개인 이력서이자 포트폴리오 역할을 한다.</description>
     </item>
     
     <item>
-      <title>RNN</title>
-      <link>/seminar/post/teo4/</link>
-      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      <title>신입생 Orientation 세미나 4</title>
+      <link>/seminar/post/teolab/</link>
+      <pubDate>Wed, 15 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/seminar/post/teo4/</guid>
-      <description>발표자: 김태오 발표 자료: 아직 발표 전입니다.
-RNN, LSTM, GRU 구조에 대해서 간략히 알아볼 예정입니다.
-이 강의의 대상은 직접 RNN을 구현하고 바로 실전에 사용하는 것을 알아보기 보다는 RNN의 각 변화구조인 LSTM, GRU를 자세히 살펴보면서 그 원리를 심도 깊게 이해하는 것입니다.
-즉, RNN계열 수식에 두려움을 없애기 위해서 기초부터 알아보자는 취지로 진행 할 예정입니다. RNN, LSTM, GRU에 대해서 어느 정도 아시는 분은 대상이 아닐 수 있습니다.</description>
+      <guid>/seminar/post/teolab/</guid>
+      <description>Research and Survey 세미나 일시: 2017년 11월 15일 17시 발표자: 김태오 본 세미나에서는 저널과 학회(컨퍼런스)의 대략적인 프로세스와 어떠한 저널/학회들을 관심 가지고 봐야할지에 대한 대략적인 소개를 진행합니다.
+또한 대략적인 논문검색, 탐색 및 Survey Tip에 대한 소개를 진행하며
+추가적으로 논문의 구조를 살펴보면서 논문 읽기에 대한 대략적인 방향성을 소개하고자 합니다.
+제가 생각하는 연구의 핵심은 다음 두 가지라고 생각합니다.
+ 논문은 무조건 많이 읽을수록 좋다 그렇다면 논문을 읽을 때 What (어떤 논문을 읽을 것인가) and How (논문을 어떻게 읽을 것인가)가 중요하다.</description>
     </item>
     
     <item>
