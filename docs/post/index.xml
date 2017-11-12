@@ -41,11 +41,12 @@ Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 �
       <description>Web without Web Programming 일시: 2017년 11월 15일 16시 발표자: 김태오 다음 프로그램들을 미리 설치하시고, 노트북을 지참해 주시기 바랍니다.
  Git https://git-scm.com/downloads
  Anaconda https://www.anaconda.com/download/
- Atom Editor https://atom.io/
- Github 계정 https://github.com
-  실습 자료: 여기서 받으실 수 있습니다.
-Abstract 요즘 연구자/개발자들은 Web을 참 많이 사용합니다. 여기에는 세 가지 이유가 크게 있다고 보는데.
- 생각과 개념, 알고리즘, 실험 결과 등을 정리하기에 좋다. 일종의 개인 이력서이자 포트폴리오 역할을 한다.</description>
+ Github 계정 가입 (E-mail 인증까지) https://github.com
+  실습 자료: 업로드 예정
+Abstract Markdown, Hugo를 이용해서 아래와 같은 Website를 만들어 보는 세미나입니다.
+매우 쉽습니다.
+활용 가능성이 높습니다.
+[예제 사이트]</description>
     </item>
     
     <item>
