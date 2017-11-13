@@ -19,7 +19,7 @@ https://www.anaconda.com/download/
 3. Github 계정 가입 (E-mail 인증까지)
 https://github.com
 
-실습 자료: 업로드 예정
+실습 자료: [[여기](/seminar/pdf/resources.zip)]서 받으세요.
 
 ### Abstract
 
