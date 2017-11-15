@@ -26,7 +26,7 @@ title: Home
 :---: | :---: | :--- | :--- | :--- | :--- |
 11월 15일 **수**요일 16시 | 공D407 | [Web without Web Programming](post/teohugo) | 김태오 | 신입생 세미나 | O
                          |  | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
-11월 24일 금요일 15시 | TBA | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
+11월 24일 금요일 16시 | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
                      |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
 
 <br>
