@@ -5,13 +5,17 @@ date: '2017-11-10'
 
 ## 발표자: 이경재
 
-발표 자료: 아직 발표 전입니다
+[[발표 자료](/seminar/regular/w9.pptx)]
 
-[[예제 다운로드](/seminar/regular/example.zip)]
+[[예제 문제 다운로드](/seminar/regular/example.zip)]
 
-**반드시 아래 링크에서 사전 프로그램을 설치하시기 바랍니다. 없으면 진행이 어렵습니다**
+[[예제 정답 다운로드](/seminar/regular/solution.zip)]
 
-[[링크](https://www.dropbox.com/s/wpzmu1i6v1sgw5g/TEX_%EC%A4%80%EB%B9%84%EB%AC%BC.zip?dl=0)]
+**사전 필요 프로그램**
+
+- TexStudio
+- MikTex
+- IEEE Tex Format File
 
 <br>
 **노트북 지참 필수**
