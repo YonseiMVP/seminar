@@ -16,18 +16,12 @@ title: Home
 
 <br>
 
-### Comming Up Next: 11월 세미나
+### Comming Up Next: 연구실 정기 10차 세미나
 
-11월 세미나는 정기 세미나의 마지막 달이기도 하고, **신입생 Orientation 세미나**를 새롭게 진행함으로서, 세미나가 많아졌습니다.
-
-일정 헷갈리시지 않도록 다음과 같이 정리되어 있으니 참고하시면 되겠습니다.
-
-*일정* | *장소* | *주제* | *발표자* | *비고* | *사전준비물*
-:---: | :---: | :--- | :--- | :--- | :--- |
-11월 15일 **수**요일 16시 | 공D407 | [Web without Web Programming](post/teohugo) | 김태오 | 신입생 세미나 | O
-                         |  | [Research and Survey](post/teolab) | 김태오 | 신입생 세미나 | X
-11월 24일 금요일 16시 | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나  | X
-                     |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나  | X
+*일정* | *장소* | *주제* | *발표자* | *비고*
+:---: | :---: | :--- | :--- | :---
+11월 24일 금요일 16시 | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나
+                     |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나
 
 <br>
 
