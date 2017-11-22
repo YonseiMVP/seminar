@@ -21,7 +21,7 @@ title: Home
 *일정* | *장소* | *주제* | *발표자* | *비고*
 :---: | :---: | :--- | :--- | :---
 11월 24일 금요일 16시 | 공D403 | [Mask R-CNN](post/cty2) | 정태영 | 정기 세미나
-                     |  | [Visual Attention](post/son2) | 손한빈 | 정기 세미나
+                     |  | [Attention Mechanism](post/son2) | 손한빈 | 정기 세미나
 
 <br>
 
@@ -48,7 +48,7 @@ title: Home
 8 | 11월 3일 | 이주성 | [Continuous Learning](post/ju2)
 9 | 11월 10일 | 이경재 | [Tex- Easier, Better, Faster, Stronger](post/kj1)
 10 | 11월 24일 | 정태영 | [Mask R-CNN](post/cty2)
-10 | 11월 24일 | 손한빈 | [Visual Attention](post/son2)
+10 | 11월 24일 | 손한빈 | [Attention Mechanism](post/son2)
 
 <br>
 

@@ -1,5 +1,5 @@
 ---
-title: Visual Attention
+title: Attention Mechanism
 date: '2017-11-24'
 ---
 
@@ -7,4 +7,17 @@ date: '2017-11-24'
 
 발표 자료: 아직 발표 전입니다
 
-음성 분야에서는 거의 필수적으로 사용되며, Text 뿐만 아니라 Vision에서도 주목받았던 Attention Mechanism에 대해서 발표 예정입니다.
+본 세미나에서는 Attention Model을 소개할 예정입니다.
+
+Attention Mechanism은 2013-2014년경 처음 제안되었고, 2015년에 가장 핫했던 알고리즘 중 하나입니다. 맨 처음 제안은 사람의 시각적 Focusing에 기반한 Visual Attention Model이었으나 당시에는 딥러닝이 없었고, 그 이후 RNN과 함께 Machine Translation (기계 번역) 분야에서 부활했습니다. 지금도 Language 및 Text, Speech 분야 등 RNN을 주력으로 사용하는 분야에서는 Attention을 거의 Default로서 사용하고 있습니다. Image Captioning과 Visual Question Answering 등 Vision의 문제에도 최근에 엮어올 수 있으며, VQA 대회에서는 상위권 대다수의 알고리즘이 Attention을 기본으로 사용하는 등 많이 사용되고 있습니다.
+
+본 세미나에서는 기초적인 RNN 개념과 Encoder-Decoder 기반의 기계 번역을 소개하고, Attention Mechanism을 아주 간단히 소개하고 Captioning과 VQA의 몇몇 논문을 살펴보는 식으로 진행할 예정입니다.
+
+Attention을 NLP가 아닌 순수 Vision Problem에 적용하는 것은 아직 Active한 영역이므로 깊게 들어가기 보다는 이 Mechanism을 소개 하는 식으로 진행할 예정이므로, 참여자 여러분의 많은 관심과 토의 부탁드립니다.
+
+참고 논문은 아래와 같습니다.
+
+- Neural Machine Translation by Jointly Learning to Align and Translate, ICLR 2015 (Attention을 Deep Learning에 처음 제안)
+- Show, Attend and Tell: Neural Image Caption Generation with Visual Attention, ICML 2015 (Attention의 대중화)
+- Dual Attention Networks for Multimodal Reasoning and Matching, CVPR 2017 (VQA Challenge 2016 2위)
+- Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering, CVPR 2017 (VQA Challenge 2017 1위)
