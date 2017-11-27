@@ -17,7 +17,7 @@
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/son2/</guid>
-      <description>발표자: 손한빈 발표 자료: 아직 발표 전입니다
+      <description>발표자: 손한빈 [발표 자료]
 본 세미나에서는 Attention Model을 소개할 예정입니다.
 Attention Mechanism은 2013-2014년경 처음 제안되었고, 2015년에 가장 핫했던 알고리즘 중 하나입니다. 맨 처음 제안은 사람의 시각적 Focusing에 기반한 Visual Attention Model이었으나 당시에는 딥러닝이 없었고, 그 이후 RNN과 함께 Machine Translation (기계 번역) 분야에서 부활했습니다. 지금도 Language 및 Text, Speech 분야 등 RNN을 주력으로 사용하는 분야에서는 Attention을 거의 Default로서 사용하고 있습니다. Image Captioning과 Visual Question Answering 등 Vision의 문제에도 최근에 엮어올 수 있으며, VQA 대회에서는 상위권 대다수의 알고리즘이 Attention을 기본으로 사용하는 등 많이 사용되고 있습니다.</description>
     </item>
@@ -28,7 +28,7 @@ Attention Mechanism은 2013-2014년경 처음 제안되었고, 2015년에 가장
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/cty2/</guid>
-      <description>발표자: 정태영 발표 자료: 아직 발표 전입니다.
+      <description>발표자: 정태영 [발표 자료]
 Object detection은 Computer Vision 분야에서 줄곧 관심있게 연구되고 있는 분야입니다. 그리고 최근 이 분야에서 가장 주목받고 있는 논문이 Kaiming He의 Mask R-CNN (ICCV 2017 Best Paper Award)입니다.
 Faster R-CNN 등과 같은 기존 Object detection 기술의 성능을 훨씬 웃돌 뿐만 아니라, Object detection과 Instance Segmentation을 하나로 통합했다는 점에서 멋진 논문입니다.
 이번 세미나에서는 이 Mask R-CNN 기술의 개념과 알고리즘을 소개하고자 하며, 이를 위해 Mask R-CNN의 주 저자 Kaiming He의 이전 작인 Faster R-CNN, Fast R-CNN, R-CNN 등의 대략적인 발전 흐름도 짚고 넘어가려 합니다.</description>

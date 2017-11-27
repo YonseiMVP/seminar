@@ -5,7 +5,7 @@ date: '2017-11-24'
 
 ## 발표자: 손한빈
 
-발표 자료: 아직 발표 전입니다
+[[발표 자료](/seminar/regular/w10_2.pptx)]
 
 본 세미나에서는 Attention Model을 소개할 예정입니다.
 
