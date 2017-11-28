@@ -15,7 +15,7 @@ title: Home
 ### Coming Up Next: 2018년도 1학기 정기 세미나 및 신입생 2차 세미나
 
 *일정* | *장소* | *주제* | *발표자*
-:---: | :---: | :--- | :--- | :---
+:---: | :---: | :--- | :---
 1월 5일 금요일 | TBD | Class Activation Map and Weakly-supervised Learning | 김태오
 1월 18일 목요일 | TBD | 논문발표 | 이형민, 이현성
 1월 19일 금요일 | TBD | 논문발표 | 이용주, 조명아
