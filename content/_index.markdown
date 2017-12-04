@@ -8,18 +8,25 @@ title: Home
 
 <br>
 
+### <a href="#NOW">1. 2018-1학기 세미나</a>
+### <a href="#NEWB">2. 2018-1학기 신입생 세미나</a>
+### <a href="#S172">3. 2017-2학기 세미나 (종료)</a>
+### <a href="#FORNEW">4. 신입생 오리엔테이션 세미나 (종료)</a>
+
+<br>
+
 문의는 메일로 부탁드립니다: kto@yonsei.ac.kr
 
 <br>
 
-### Coming Up Next: 2018년도 1학기 정기 세미나 및 신입생 2차 세미나
+### <a name="NOW">1. 2018년도 1학기 정기 세미나</a>
+
+### 2주 단위로 진행되며 (시험기간 제외), 최대 2명이 발표합니다.
 
 *일정* | *장소* | *주제* | *발표자*
 :---: | :---: | :--- | :---
-1월 5일 금요일 | TBD | Class Activation Map and Weakly-supervised Learning | 김태오
-1월 18일 목요일 | TBD | 논문발표 | 이형민, 이현성
-1월 19일 금요일 | TBD | 논문발표 | 이용주, 조명아
-1월 19일 금요일 | TBD | TBA | 황상원
+1/5 금요일 | TBD | Weakly-Supervised Learning and Class Activation Map | 김태오
+1/19 금요일 | TBD | TBA | 황상원
 2월 | TBD | TBA | 김우진, 박성주
 3월 | TBD | TBA | 이형민, 이용주
 4월 | TBD | TBA | 도진경
@@ -30,7 +37,18 @@ title: Home
 
 <br>
 
-### 정기 세미나 2017년 2학기 (종료)
+### <a name="NEWB">2. 2018-1학기 신입생 세미나</a>
+
+**일시**  | **발표자** | **발표 논문** | **프로시딩**
+:---: | :---: | :--- | :--- |
+1/18 (예정) | 이형민 | Image Captioning with Semantic Attention | CVPR 2016
+1/18 (예정) | 이현성 | YOLO- Unified, Real-Time Object Detection | CVPR 2016
+1/19 (예정) | 이용주 | Deep Image Prior | Arxiv 2017
+1/19 (예정) | 조명아 | Richer Convolutional Feature for Edge Detection | CVPR 2017
+
+<br>
+
+### <a name="S172">3. 2017년도 2학기 정기 세미나 (종료)</a>
 
 **주차**  | **일시** | **발표자** | **주제**
 :---: | :---: | :--- | :--- |
@@ -57,7 +75,7 @@ title: Home
 
 <br>
 
-### 신입생 오리엔테이션 세미나
+### <a name="FORNEW">4. 신입생 오리엔테이션 세미나 (종료)</a>
 
 **파트**  | **최종일시** | **발표자** | **주제**
 :---: | :---: | :--- | :--- |
@@ -65,15 +83,6 @@ title: Home
 2 | 17년 11월 8일 | 이형민 | [Git using Commands](post/hmgit)
 3 | 17년 11월 15일 | 김태오 | [Web without Web Programming](post/teohugo)
 4 | 17년 11월 15일 | 김태오 | [Research and Survey](post/teolab)
-
-<br>
-
-### 신입생 세미나
-
-**회차**  | **일시** | **발표자** | **발표 자료**
-:---: | :---: | :--- | :--- |
-1차 | 17년 10월 11일 | 이현성 | Will be Uploaded
-1차 | 17년 10월 27일 | 조명아 | Will be Uploaded
 
 <br>
 <br>
