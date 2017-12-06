@@ -26,7 +26,7 @@ title: Home
 *일정* | *장소* | *주제* | *발표자*
 :---: | :---: | :--- | :---
 1/5 금요일 | TBD | Weakly-Supervised Learning and Class Activation Map | 김태오
-1/19 금요일 | TBD | TBA | 황상원
+1/19 금요일 | TBD | Feature Descriptor and Deep Image Homography | 황상원
 2월 | TBD | TBA | 김우진, 박성주
 3월 | TBD | TBA | 이형민, 이용주
 4월 | TBD | TBA | 도진경
