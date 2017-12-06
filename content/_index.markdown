@@ -8,7 +8,7 @@ title: Home
 
 <br>
 
-### <a href="#NOW"><a name="BACK">1. 2018-1학기 세미나</a></a>
+### <a name="BACK"><a href="#NOW">1. 2018-1학기 세미나</a></a>
 ### <a href="#NEWB">2. 2018-1학기 신입생 세미나</a>
 ### <a href="#S172">3. 2017-2학기 세미나 (종료)</a>
 ### <a href="#FORNEW">4. 신입생 오리엔테이션 세미나 (종료)</a>
@@ -19,7 +19,7 @@ title: Home
 
 <br>
 
-### <a href="#BACK"><a name="NOW">1. 2018년도 1학기 정기 세미나</a></a>
+### <a name="NOW"><a href="#BACK">1. 2018년도 1학기 정기 세미나</a></a>
 
 2주 단위로 진행되며 (시험기간 제외), 최대 2명이 발표합니다.
 
@@ -37,20 +37,20 @@ title: Home
 
 <br>
 
-### <a href="#BACK"><a name="NEWB">2. 2018-1학기 신입생 세미나</a></a>
+### <a name="NEWB"><a href="#BACK">2. 2018-1학기 신입생 세미나</a></a>
 
 신입생들이 직접 고른 논문으로 발표 예정입니다.
 
 **일시**  | **발표자** | **발표 논문** | **프로시딩**
 :---: | :---: | :--- | :--- |
-1/18 (예정) | 이형민 | Image Captioning with Semantic Attention | CVPR 2016
-1/18 (예정) | 이현성 | YOLO- Unified, Real-Time Object Detection | CVPR 2016
-1/19 (예정) | 이용주 | Deep Image Prior | Arxiv 2017
-1/19 (예정) | 조명아 | Richer Convolutional Feature for Edge Detection | CVPR 2017
+1/18 (예정) | 이형민 | [Image Captioning with Semantic Attention](https://arxiv.org/pdf/1603.03925.pdf) | CVPR 2016
+1/18 (예정) | 조명아 | [Unified, Real-Time Object Detection (YOLO v1)](https://arxiv.org/pdf/1506.02640.pdf) | CVPR 2016
+1/19 (예정) | 이용주 | [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) | Arxiv 2017
+1/19 (예정) | 이현성 | [Edge-Guided Single Depth Image Super Resolution](http://www.clairexie.org/resources/TIP16.pdf) | TIP 2016
 
 <br>
 
-### <a href="#BACK"><a name="S172">3. 2017년도 2학기 정기 세미나 (종료)</a></a>
+### <a name="S172"><a href="#BACK">3. 2017년도 2학기 정기 세미나 (종료)</a></a>
 
 **주차**  | **일시** | **발표자** | **주제**
 :---: | :---: | :--- | :--- |
@@ -77,7 +77,7 @@ title: Home
 
 <br>
 
-### <a href="#BACK"><a name="FORNEW">4. 신입생 오리엔테이션 세미나 (종료)</a></a>
+### <a name="FORNEW"><a href="#BACK">4. 신입생 오리엔테이션 세미나 (종료)</a></a>
 
 **파트**  | **최종일시** | **발표자** | **주제**
 :---: | :---: | :--- | :--- |
