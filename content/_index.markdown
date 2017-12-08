@@ -27,13 +27,18 @@ title: Home
 :---: | :---: | :--- | :---
 1/5 금요일 | TBD | [Weakly-Supervised Learning](post/teo18_1) | 김태오
 1/19 금요일 | TBD | Feature Descriptor and Deep Image Homography | 황상원
-2월 | TBD | TBA | 김우진, 박성주
-3월 | TBD | TBA | 이형민, 이용주
-4월 | TBD | TBA | 도진경
-5월 | TBD | TBA | 이현성, 조명아
-6월 | TBD | TBA | 김우진
-7월 | TBD | TBA | 이형민, 이현성, 이용주, 조명아
-8월 | TBD | TBA | 이형민, 이현성, 이용주, 조명아
+2/2 금요일 | TBD | TBA | 김우진
+2/16 금요일 | TBD | TBA | 박성주
+3/2 금요일 | TBD | TBA | 이형민
+3/16 금요일 | TBD | TBA | 이용주
+3/30 금요일 | TBD | TBA | 도진경
+4/27 금요일 | TBD | TBA | 이현성
+5/11 금요일 | TBD | TBA | 조명아
+5/25 금요일 | TBD | TBA | 김우진
+7월 초, 중 | TBD | TBA | 이형민, 이용주
+7월 중, 말 | TBD | TBA | 이현성, 조명아
+8월 초, 중 | TBD | TBA | 이형민, 이용주
+8월 중, 말 | TBD | TBA | 이현성, 조명아
 
 <br>
 
