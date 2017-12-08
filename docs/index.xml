@@ -6,10 +6,22 @@
     <description>Recent content in Home on MVP Seminar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>utf-8</language>
-    <lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/seminar/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Weakly Supervised Learning</title>
+      <link>/seminar/post/teo18_1/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/seminar/post/teo18_1/</guid>
+      <description>발표자: 김태오 발표 자료: 2018년 1월 1일 업로드 예정입니다.
+이번 세미나의 주제는 Weakly Supervised Learning입니다. 쉽게 말하자면, 구하기 쉬운 Dataset으로 학습해서 더 어려운 문제를 푸는 것입니다. 어떻게 설명할지 고민하다가. 이 분야에서 가장 유명한 CAM (Class Activation Map)을 중심으로 설명하고, 그 후에 인상깊은 Approach를 보여주었던 (방법론은 조금 다릅니다) YOLO9000과 MaskX R-CNN에 대해서 소개하고자 합니다.
+발표 논문은 다음과 같습니다.
+ Network in Network, ICLR 2014 CAM: Learning Deep Features for Discriminative Localization, CVPR 2016 YOLO9000: Better, Faster, Stronger, CVPR 2017 MaskX R-CNN: Learning to Segment Every Thing, Arxiv 2017.</description>
+    </item>
     
     <item>
       <title>Attention Mechanism</title>
