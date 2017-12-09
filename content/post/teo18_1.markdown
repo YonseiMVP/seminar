@@ -1,4 +1,4 @@
----
+﻿---
 title: Weakly Supervised Learning
 date: '2018-01-05'
 ---
@@ -14,10 +14,12 @@ date: '2018-01-05'
 발표 논문은 다음과 같습니다.
 
 Weakly Supervised Learning
+
 - CAM: Learning Deep Features for Discriminative Localization, CVPR 2016
 - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
 
 Partially Supervised Learning
+
 - YOLO9000: Better, Faster, Stronger, CVPR 2017
 - MaskX R-CNN: Learning to Segment Every Thing, Arxiv 2017.11
 
