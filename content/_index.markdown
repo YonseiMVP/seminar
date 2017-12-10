@@ -25,7 +25,7 @@ title: Home
 
 *일정* | *장소* | *주제* | *발표자*
 :---: | :---: | :--- | :---
-1/5 금요일 | TBD | [Weakly-Supervised Learning](post/teo18_1) | 김태오
+1/5 금요일 | TBD | [Class Activation Map and Weakly-Supervised Learning](post/teo18_1) | 김태오
 1/19 금요일 | TBD | Feature Descriptor and Deep Image Homography | 황상원
 2/2 금요일 | TBD | TBA | 김우진
 2/16 금요일 | TBD | TBA | 박성주
