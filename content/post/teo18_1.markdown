@@ -22,7 +22,7 @@ Partially Supervised Learning은 정식 용어는 아니지만, Weakly와는 조
 CAM and Weakly Supervised Learning
 
 - CAM: Learning Deep Features for Discriminative Localization, CVPR 2016
-- Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization
+- Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization, ICCV 2017
 
 Partially Supervised Learning
 
