@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/seminar/post/hwang18_1/</loc>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/seminar/post/teo18_1/</loc>
     <lastmod>2018-01-05T00:00:00+00:00</lastmod>
   </url>
@@ -134,12 +139,12 @@
   
   <url>
     <loc>/seminar/</loc>
-    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/seminar/post/</loc>
-    <lastmod>2018-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2018-01-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
