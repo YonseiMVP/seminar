@@ -1,0 +1,12 @@
+---
+title: Image Captioning with Semantic Attention
+date: '2018-01-15'
+---
+
+## 발표자: 이형민
+
+이번 세미나에서는 Quanzeng You의 CVPR 논문인 [Image Captioning with Semantic Attention]에 대한 리뷰를 하려고 합니다. Image Captioning은 인공지능 학계의 거대한 두 흐름인 ‘Computer Vision(컴퓨터 비전)’과 ‘Natural Language Processing(자연어 처리)’를 연결하는, 매우 중요한 의의를 갖는 연구 분야입니다.
+
+Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom-Up Approach’로 구분됩니다. Top-Down Approach에서는 이미지를 통째로 시스템에 통과 시켜서 얻은 ‘요점’을 언어로 변환하는 반면 Bottom-Up Approach에서는 이미지의 다양한 부분들로부터 단어들을 도출해내고, 이를 결합하여 문장을 얻어냅니다. 논문에서는 이러한 Top-Down Approach와 Bottom-Up Approach의 장점을 합해서 Image Captioning 성능을 올리고자 합니다. 이 때 사용되는 개념이 바로 Visual Attention입니다.
+
+Visual Attention은 말 그대로 이미지의 특정 부분에 집중하는 것입니다. 사람이 이미지의 모든 내용을 전부 묘사하지 않는 것처럼, 컴퓨터도 이미지에서 특히 중요한 부분에 자원을 집중하는 형태의 노력이 필요합니다. Visual Attention을 통해서 컴퓨터는 이미지의 특히 중요한 부분에 집중하고, 더 자세히 묘사하게 됩니다. 본 세미나에서는 Visual Attention이 어떠한 방식으로 Image Captioning에 적용되는지 살펴보도록 하겠습니다.

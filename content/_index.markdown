@@ -28,7 +28,7 @@ title: Home
 1/5 금요일 | TBD | [Class Activation Map and Weakly-Supervised Learning](post/teo18_1) | 김태오
 1/19 금요일 | TBD | [Feature Descriptor and Deep Image Homography](post/hwang18_1) | 황상원
 2/2 금요일 | TBD | TBA | 김우진
-2/16 금요일 | TBD | TBA | 박성주
+2/23 금요일 | TBD | TBA | 박성주
 3/2 금요일 | TBD | TBA | 이형민
 3/16 금요일 | TBD | TBA | 이용주
 3/30 금요일 | TBD | TBA | 도진경
@@ -37,8 +37,8 @@ title: Home
 5/25 금요일 | TBD | TBA | 김우진
 7월 초, 중 | TBD | TBA | 이형민, 이용주
 7월 중, 말 | TBD | TBA | 이현성, 조명아
-8월 초, 중 | TBD | TBA | 이형민, 이용주
-8월 중, 말 | TBD | TBA | 이현성, 조명아
+8월 초, 중 | TBD | TBA | TBA
+8월 중, 말 | TBD | TBA | TBA
 
 <br>
 
@@ -48,10 +48,10 @@ title: Home
 
 **일시**  | **발표자** | **발표 논문** | **프로시딩**
 :---: | :---: | :--- | :--- |
-1/18 (예정) | 이형민 | [Image Captioning with Semantic Attention](https://arxiv.org/pdf/1603.03925.pdf) | CVPR 2016
-1/18 (예정) | 조명아 | [Unified, Real-Time Object Detection (YOLO v1)](https://arxiv.org/pdf/1506.02640.pdf) | CVPR 2016
-1/19 (예정) | 이용주 | [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) | Arxiv 2017
-1/19 (예정) | 이현성 | [Edge-Guided Single Depth Image Super Resolution](http://www.clairexie.org/resources/TIP16.pdf) | TIP 2016
+1/15 4:00 PM, D403 | 이형민 | [Image Captioning with Semantic Attention](https://arxiv.org/pdf/1603.03925.pdf) | [발표 Abstract](post/new1)
+1/15 4:00 PM, D403 | 조명아 | [Unified, Real-Time Object Detection (YOLO v1)](https://arxiv.org/pdf/1506.02640.pdf) | [발표 Abstract](post/new2)
+1/15 4:00 PM, D403 | 이용주 | [Deep Image Prior](https://arxiv.org/pdf/1711.10925.pdf) | [발표 Abstract](post/new3)
+1/15 4:00 PM, D403 | 이현성 | [Edge-Guided Single Depth Image Super Resolution](http://www.clairexie.org/resources/TIP16.pdf) | [발표 Abstract](post/new4)
 
 <br>
 
