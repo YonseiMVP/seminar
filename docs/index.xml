@@ -39,7 +39,8 @@ Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/new4/</guid>
-      <description>발표자: 이현성 업로드 예정</description>
+      <description>발표자: 이현성 최근 Depth Map은 물체와 배경을 인식 및 이해하기 위하여 많은 Application에 널리 사용되고 있습니다. 그러나 Depth 카메라(e.g. Microsoft Kinect, 3D-ToF Cameras)에서 제공되는 Depth Map은 그 품질과 해상도가 제한되므로 Depth Map Super Resolution이 필요하게 됩니다.
+이번 세미나에서는 MRF(Markov Random Field) 모델 기반의 Single Depth Image Super Resolution 논문 중 하나인 Edge-Guided Single Depth Image Super Resolution, IEEE Transactions on Image Processing, 2016을 리뷰하려 합니다. 이 논문에서는 MRF Optimization을 사용하여 기존처럼 Depth Value를 직접 추정하는 것이 아닌, 고해상도의 Depth Edge를 찾는 것에 초점을 맞추었습니다.</description>
     </item>
     
     <item>
