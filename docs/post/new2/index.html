@@ -30,7 +30,9 @@
 
 <h2 id="발표자-조명아">발표자: 조명아</h2>
 
-<p>업로드 예정</p>
+<p>인간은 이미지를 한 번 보고도 빠르고 정확하게 그 안에 있는 물체들을 파악합니다. 하지만 Object Detection 분야에서 좋은 성능을 보이고 있는 DPM(Deformable Parts Model), R-CNN 은 Sliding Window로 반복 처리를 수행하거나 Classification을 따로 Post-processing하는 등 분리된 네트워크입니다. 따라서 인간의 Visual System과는 달리 처리 과정이 복잡하고 최적화하기에 어려움이 있으며 속도가 느립니다.</p>
+
+<p>YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체가 어디에 위치하는지 빠르게 예측합니다. YOLO는 Object Detection 문제를 Single Regression 문제로 재정의하여 물체의 Bounding Box와 Class를 동시에 예측합니다. 이는 이전의 기술들보다 10배 이상의 속도 차이를 보입니다. 또한 전체 이미지의 Global Context를 파악하기 때문에 Background Error를 반 이상 줄일 수 있습니다. 이번 세미나에선 YOLO의 핵심인 &lsquo;한 번만 보고 실시간 속도로 예측&rsquo;하는 Single 네트워크와 그 성능에 대해 살펴보겠습니다.</p>
 
 </main>
 

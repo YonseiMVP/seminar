@@ -59,7 +59,8 @@ Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/new2/</guid>
-      <description>발표자: 조명아 업로드 예정</description>
+      <description>발표자: 조명아 인간은 이미지를 한 번 보고도 빠르고 정확하게 그 안에 있는 물체들을 파악합니다. 하지만 Object Detection 분야에서 좋은 성능을 보이고 있는 DPM(Deformable Parts Model), R-CNN 은 Sliding Window로 반복 처리를 수행하거나 Classification을 따로 Post-processing하는 등 분리된 네트워크입니다. 따라서 인간의 Visual System과는 달리 처리 과정이 복잡하고 최적화하기에 어려움이 있으며 속도가 느립니다.
+YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체가 어디에 위치하는지 빠르게 예측합니다. YOLO는 Object Detection 문제를 Single Regression 문제로 재정의하여 물체의 Bounding Box와 Class를 동시에 예측합니다.</description>
     </item>
     
     <item>
