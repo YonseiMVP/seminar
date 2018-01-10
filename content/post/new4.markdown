@@ -5,7 +5,7 @@ date: '2018-01-15'
 
 ## 발표자: 이현성
 
-<center> <img src="/seminar/img/new4.PNG" style="height:400px" /></center>
+<center> <img src="/seminar/img/new4.PNG" style="height:359px" /></center>
 
 최근 Depth Map은 물체와 배경을 인식 및 이해하기 위하여 많은 Application에 널리 사용되고 있습니다. 그러나 Depth 카메라(e.g. Microsoft Kinect, 3D-ToF Cameras)에서 제공되는 Depth Map은 그 품질과 해상도가 제한되므로 Depth Map Super Resolution이 필요하게 됩니다.
 
