@@ -23,22 +23,22 @@ title: Home
 
 2주 단위로 진행되며 (시험기간 제외), 최대 2명이 발표합니다.
 
-*일정* | *장소* | *주제* | *발표자*
-:---: | :---: | :--- | :---
-1/5 금요일 | TBD | [Class Activation Map and Weakly-Supervised Learning](post/teo18_1) | 김태오
-1/19 금요일 | TBD | [Feature Descriptor and Deep Image Homography](post/hwang18_1) | 황상원
-2/2 금요일 | TBD | TBA | 김우진
-2/23 금요일 | TBD | TBA | 박성주
-3/2 금요일 | TBD | TBA | 이형민
-3/16 금요일 | TBD | TBA | 이용주
-3/30 금요일 | TBD | TBA | 도진경
-4/27 금요일 | TBD | TBA | 이현성
-5/11 금요일 | TBD | TBA | 조명아
-5/25 금요일 | TBD | TBA | 김우진
-7월 초, 중 | TBD | TBA | 이형민, 이용주
-7월 중, 말 | TBD | TBA | 이현성, 조명아
-8월 초, 중 | TBD | TBA | TBA
-8월 중, 말 | TBD | TBA | TBA
+*일정* | *주제* | *발표자*
+:---: | :--- | :---
+1/5 금요일 | [Class Activation Map and Weakly-Supervised Learning](post/teo18_1) | 김태오
+**1/19 금요일** | [Feature Descriptor and Deep Image Homography](post/hwang18_1) | 황상원
+2/2 금요일 | TBA | 김우진
+2/23 금요일 | TBA | 박성주
+3/2 금요일 | TBA | 이형민
+3/16 금요일 | TBA | 이용주
+3/30 금요일 | TBA | 도진경
+4/27 금요일 | TBA | 이현성
+5/11 금요일 | TBA | 조명아
+5/25 금요일 | TBA | 김우진
+7월 초, 중 | TBA | 이형민, 이용주
+7월 중, 말 | TBA | 이현성, 조명아
+8월 초, 중 | TBA | TBA
+8월 중, 말 | TBA | TBA
 
 <br>
 
