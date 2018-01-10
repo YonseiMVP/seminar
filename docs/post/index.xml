@@ -30,7 +30,8 @@ Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/new3/</guid>
-      <description>발표자: 이용주 업로드 예정</description>
+      <description>발표자: 이용주  
+업로드 예정</description>
     </item>
     
     <item>
@@ -39,7 +40,8 @@ Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/new4/</guid>
-      <description>발표자: 이현성 최근 Depth Map은 물체와 배경을 인식 및 이해하기 위하여 많은 Application에 널리 사용되고 있습니다. 그러나 Depth 카메라(e.g. Microsoft Kinect, 3D-ToF Cameras)에서 제공되는 Depth Map은 그 품질과 해상도가 제한되므로 Depth Map Super Resolution이 필요하게 됩니다.
+      <description>발표자: 이현성  
+최근 Depth Map은 물체와 배경을 인식 및 이해하기 위하여 많은 Application에 널리 사용되고 있습니다. 그러나 Depth 카메라(e.g. Microsoft Kinect, 3D-ToF Cameras)에서 제공되는 Depth Map은 그 품질과 해상도가 제한되므로 Depth Map Super Resolution이 필요하게 됩니다.
 이번 세미나에서는 MRF(Markov Random Field) 모델 기반의 Single Depth Image Super Resolution 논문 중 하나인 Edge-Guided Single Depth Image Super Resolution, IEEE Transactions on Image Processing, 2016을 리뷰하려 합니다. 이 논문에서는 MRF Optimization을 사용하여 기존처럼 Depth Value를 직접 추정하는 것이 아닌, 고해상도의 Depth Edge를 찾는 것에 초점을 맞추었습니다.</description>
     </item>
     
@@ -49,7 +51,8 @@ Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/new1/</guid>
-      <description>발표자: 이형민 이번 세미나에서는 Quanzeng You의 CVPR 논문인 [Image Captioning with Semantic Attention]에 대한 리뷰를 하려고 합니다. Image Captioning은 인공지능 학계의 거대한 두 흐름인 ‘Computer Vision(컴퓨터 비전)’과 ‘Natural Language Processing(자연어 처리)’를 연결하는, 매우 중요한 의의를 갖는 연구 분야입니다.
+      <description>발표자: 이형민  
+이번 세미나에서는 Quanzeng You의 CVPR 논문인 [Image Captioning with Semantic Attention]에 대한 리뷰를 하려고 합니다. Image Captioning은 인공지능 학계의 거대한 두 흐름인 ‘Computer Vision(컴퓨터 비전)’과 ‘Natural Language Processing(자연어 처리)’를 연결하는, 매우 중요한 의의를 갖는 연구 분야입니다.
 Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom-Up Approach’로 구분됩니다. Top-Down Approach에서는 이미지를 통째로 시스템에 통과 시켜서 얻은 ‘요점’을 언어로 변환하는 반면 Bottom-Up Approach에서는 이미지의 다양한 부분들로부터 단어들을 도출해내고, 이를 결합하여 문장을 얻어냅니다.</description>
     </item>
     
@@ -59,7 +62,8 @@ Image Captioning의 접근 방식은 크게 ‘Top-Down Approach’와 ‘Bottom
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>/seminar/post/new2/</guid>
-      <description>발표자: 조명아 인간은 이미지를 한 번 보고도 빠르고 정확하게 그 안에 있는 물체들을 파악합니다. 하지만 Object Detection 분야에서 좋은 성능을 보이고 있는 DPM(Deformable Parts Model), R-CNN 은 Sliding Window로 반복 처리를 수행하거나 Classification을 따로 Post-processing하는 등 분리된 네트워크입니다. 따라서 인간의 Visual System과는 달리 처리 과정이 복잡하고 최적화하기에 어려움이 있으며 속도가 느립니다.
+      <description>발표자: 조명아  
+인간은 이미지를 한 번 보고도 빠르고 정확하게 그 안에 있는 물체들을 파악합니다. 하지만 Object Detection 분야에서 좋은 성능을 보이고 있는 DPM(Deformable Parts Model), R-CNN 은 Sliding Window로 반복 처리를 수행하거나 Classification을 따로 Post-processing하는 등 분리된 네트워크입니다. 따라서 인간의 Visual System과는 달리 처리 과정이 복잡하고 최적화하기에 어려움이 있으며 속도가 느립니다.
 YOLO(You Only Look Once)는 전체 이미지를 한 번만 보고 어떤 물체가 어디에 위치하는지 빠르게 예측합니다. YOLO는 Object Detection 문제를 Single Regression 문제로 재정의하여 물체의 Bounding Box와 Class를 동시에 예측합니다.</description>
     </item>
     
