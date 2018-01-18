@@ -5,7 +5,7 @@ date: '2018-01-19'
 
 ## 발표자: 황상원
 
-발표 자료 업로드 예정입니다.
+[[발표 자료](/seminar/regular/Hwang_2018_1.pdf)]
 
 Computer vision분야에서 Homography란, 두 개 이상의 이미지가 주어졌을 때 이미들 사이의 변환 관계 식을 의미합니다.
 
